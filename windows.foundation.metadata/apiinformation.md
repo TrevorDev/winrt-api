@@ -13,6 +13,7 @@ public class ApiInformation
 Enables you to detect whether a specified member, type, or API contract is present so that you can safely make API calls across a variety of devices.
 
 ## -remarks
+This API is part of the Windows::Foundation::Metadata namespace.
 
 ## -examples
 
